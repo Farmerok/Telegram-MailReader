@@ -1,0 +1,5 @@
+IMAP Host = 
+IMAP User = 
+IMAP Pass = 
+Bot Token = 
+Chat ID = 
