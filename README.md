@@ -23,6 +23,7 @@
     - В итоге вы получите это при старте бота
 
 ![We are NOT limited by the technology of our time!](images.jpg)
+
 ## Пример использования:
 
 1. Запустите скрипт после настройки config.txt.
