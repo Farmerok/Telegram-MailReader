@@ -18,7 +18,7 @@
     - IMAP Host: Тип вашей почты (например, imap.gmail.com или imap.mail.ru).
     - IMAP User: Логин от вашей почты.
     - IMAP Pass: Пароль от вашей почты (не основной пароль, нужно создать "Пароль для приложений").
-    - Bot Token: Токен вашего Telegram-бота (полученный у [https://t.me/BotFather] ).
+    - Bot Token: Токен вашего Telegram-бота (полученный у https://t.me/BotFather ).
     - Chat ID: Идентификатор вашего чата (полученный у @userinfobot).
     - В итоге вы получите это при старте бота
 
