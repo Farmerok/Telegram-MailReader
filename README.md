@@ -21,7 +21,7 @@
     - Bot Token: Токен вашего Telegram-бота (полученный у @BotFather).
     - Chat ID: Идентификатор вашего чата (полученный у @userinfobot).
     - В итоге вы получите это при старте бота
-   ![We are NOT limited by the technology of our time!](images.jpg) 
+![StartInfo](images.jpg) 
 
 ## Пример использования:
 
