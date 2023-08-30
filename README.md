@@ -19,7 +19,7 @@
     - IMAP User: Логин от вашей почты.
     - IMAP Pass: Пароль от вашей почты (не основной пароль, нужно создать "Пароль для приложений").
     - Bot Token: Токен вашего Telegram-бота (полученный у @BotFather ( https://t.me/BotFather ).
-    - Chat ID: Идентификатор вашего чата (полученный у @userinfobot ( https://t.me/userinfobot ).
+    - Chat ID: Идентификатор вашего чата (полученный у @userinfobot.
     - В итоге вы получите это при старте бота
 
     ![THIS PY LOVE!](image/images.jpg)
